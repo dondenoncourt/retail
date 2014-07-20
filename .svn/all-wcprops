@@ -1,0 +1,51 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 28
+/subversion/b2bweb/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/subversion/b2bweb/!svn/ver/3584/retail/trunk
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/subversion/b2bweb/!svn/ver/1876/retail/trunk/.classpath
+END
+stacktrace.log
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/subversion/b2bweb/!svn/ver/1639/retail/trunk/stacktrace.log
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/subversion/b2bweb/!svn/ver/1748/retail/trunk/.project
+END
+mysqldump.sql.zip
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/subversion/b2bweb/!svn/ver/3202/retail/trunk/mysqldump.sql.zip
+END
+populateDealer.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/subversion/b2bweb/!svn/ver/3668/retail/trunk/populateDealer.groovy
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/subversion/b2bweb/!svn/ver/2712/retail/trunk/application.properties
+END
+itemmastex.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/subversion/b2bweb/!svn/ver/589/retail/trunk/itemmastex.sql
+END

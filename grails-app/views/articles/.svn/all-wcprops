@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/subversion/b2bweb/!svn/ver/2965/retail/trunk/grails-app/views/articles
+END
+ergometer.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/b2bweb/!svn/ver/1738/retail/trunk/grails-app/views/articles/ergometer.gsp
+END
+_childBikeSizeChart.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/subversion/b2bweb/!svn/ver/1427/retail/trunk/grails-app/views/articles/_childBikeSizeChart.gsp
+END
+_adultBikeSizeChart.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/subversion/b2bweb/!svn/ver/1427/retail/trunk/grails-app/views/articles/_adultBikeSizeChart.gsp
+END
+ebikes.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/b2bweb/!svn/ver/2965/retail/trunk/grails-app/views/articles/ebikes.gsp
+END
+ttrules.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/1672/retail/trunk/grails-app/views/articles/ttrules.gsp
+END
+bbbenefits.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/b2bweb/!svn/ver/1766/retail/trunk/grails-app/views/articles/bbbenefits.gsp
+END
+chooseBikeSize.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/b2bweb/!svn/ver/1672/retail/trunk/grails-app/views/articles/chooseBikeSize.gsp
+END

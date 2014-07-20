@@ -1,0 +1,51 @@
+a.button {
+    background: #06C;
+    padding: 2px 4px 2px 2px;
+    margin-top: -20px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #101F40;
+    text-decoration: none;
+    color: #fff;
+}
+a.pdfAnchor {
+    background: URL(../images/skin/pdficon_small.gif) center left no-repeat;
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-left: 25px;
+    padding-bottom: 3px;
+    background-color: #06C;
+    color: #fff;
+    margin: 20px 0 20px 20px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #101F40;
+    text-decoration: none;
+    
+}
+
+dl dt {
+    width: 20%;
+}
+dl dt {
+	float: left;
+	font-weight: bold;
+	margin-right: 10px;
+	padding: 1px;
+	text-align: right;
+	white-space: nowrap;
+	width: 34%;
+}
+td.consumerPays {
+	color: #FF0000; /* red */
+	font-weight: bold;
+}
+#trackingLabels li {
+	list-style:  none;
+}
+#upsLabels {
+	margin-left: 150px;
+}

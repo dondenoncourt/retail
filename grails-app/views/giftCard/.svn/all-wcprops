@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/subversion/b2bweb/!svn/ver/2840/retail/trunk/grails-app/views/giftCard
+END
+index.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/b2bweb/!svn/ver/2840/retail/trunk/grails-app/views/giftCard/index.gsp
+END
+lookup.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/b2bweb/!svn/ver/2805/retail/trunk/grails-app/views/giftCard/lookup.gsp
+END
+showCard.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/2371/retail/trunk/grails-app/views/giftCard/showCard.gsp
+END
+_info.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/b2bweb/!svn/ver/2383/retail/trunk/grails-app/views/giftCard/_info.gsp
+END
+cardInfo.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/2572/retail/trunk/grails-app/views/giftCard/cardInfo.gsp
+END
+_invalid.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/2383/retail/trunk/grails-app/views/giftCard/_invalid.gsp
+END

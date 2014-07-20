@@ -1,0 +1,87 @@
+a.right {
+    background: url(../images/skin/arrow_right.png) right no-repeat;
+    padding-right: 18px;
+    text-decoration: none;
+}
+a.left {
+    background: url(../images/skin/arrow_left.png) left no-repeat;
+    padding-left: 18px;
+    text-decoration: none;
+}
+#asGuestDiv {
+	margin-top: 280px;
+	clear: both;
+	display: block;
+}
+#checkoutForm {
+	width: 970px;
+}
+div.body {
+	background: white;
+	height: 550px;
+	margin-bottom: none;
+}
+div.buttons {
+    float: left;
+	clear: left;
+	width: 970px;
+}
+div.registerWarranty {
+	clear: left;
+	float: left;
+	width: 970px;
+}
+div#cartTop {
+	clear:left;
+	float: left;
+	width: 100%;
+}
+
+dl dt {
+    float:left;
+    font-weight:bold;
+    margin-right:10px;
+    padding:1px;
+    width:34%;
+    text-align: right;
+    white-space: nowrap;
+}
+
+fieldset.left {
+	float: left;
+	clear: left;
+	width: 46%;
+	margin-left: 5px;
+}
+fieldset.right {
+    float: right;
+	clear: right;
+    width: 46%;
+    margin-right: 5px;
+}
+fieldset.full {
+	float: left;
+	clear: left;
+	width: 97%
+}
+legend {
+	font-weight: bold;
+	font-size:large;
+}
+#returningCustomers dl  {
+	width: 100%;
+}
+ul.checkoutSteps {
+	margin-top: 10px;
+}
+ul.checkoutSteps li {
+    display: inline;
+	font-size: 18px;
+	margin-right: 20px;
+}	
+ul.checkoutSteps li.current {
+	font-weight: bold;
+	font-size: 20px;
+    border: 1px solid #101F40;
+    padding: 5px;
+}	

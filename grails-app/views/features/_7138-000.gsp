@@ -1,0 +1,19 @@
+<!-- 7138-000 -->
+
+<li><g:message code="features.item.7138-000.li.1"/></li>
+<li><g:message code="features.item.7138-000.li.2"/></li>
+<li><g:message code="features.item.7138-000.li.3"/></li>
+<li><g:message code="features.item.7138-000.li.4"/></li>
+<li><g:message code="features.item.7138-000.li.5"/></li>
+<li><g:message code="features.item.7138-000.li.6"/></li>
+<li><g:message code="features.item.7138-000.li.7"/></li>
+<li><g:message code="features.item.7138-000.li.8"/></li>
+<li><g:message code="features.item.7138-000.li.9"/></li>
+<li>2" square steel legs with synthetic powder coating and galvanized treatment to guard against corrosion and scratches.  Legs equipped with levelers for easy adjustment
+<li><g:message code="features.item.7138-000.li.10"/></li>
+<li><g:message code="features.item.7138-000.li.11"/></li>
+<li><g:message code="features.item.7138-000.li.12"/></li>
+<li><g:message code="features.item.7138-000.li.13"/></li>
+<li><g:message code="features.item.7138-000.li.14"/></li>
+<li><g:message code="features.item.7138-000.li.15"/></li>
+

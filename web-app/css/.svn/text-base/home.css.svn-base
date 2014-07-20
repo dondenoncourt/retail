@@ -1,0 +1,222 @@
+a.back {
+    display:block;
+    height: 20px;
+    color: white;
+    background-color: #0066CC;
+    border: 1px solid #101F40;
+    padding: 4px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: block;
+    width: 45px;
+    font-size: large;
+}
+#aboutUs {
+	height: 675px;
+}
+#aboutUs .left {
+	padding: 10px;
+	width: 49%;
+	display: inline;
+	float: left;
+	clear:left
+}
+#aboutUs right {
+    padding: 10px;
+    width: 49%;
+    display: inline;
+    float: right;
+}
+#aboutUs p {
+	text-align: justify;
+	font-size: 16px;
+	padding-right: 15px;
+}
+/* #articles {
+    height: 1000px;
+    background: #fff;
+}
+*/
+.article {
+    padding-top: 20px;
+    height: 120x;
+}
+#articles hr {
+    width: 800px;
+}
+.article {
+    padding-left: 20px;
+    height: 120px;
+}
+.article img {
+    width: 100px;
+    height: 100px;
+    display: inline;
+    float: left;
+    clear:left;
+}
+.article h2 {
+	padding-top: 20px;
+	padding-left: 140px;
+}
+p {
+    text-align: justify;
+    font-size: 12px;
+    padding-right: 25px;
+}
+
+.award {
+	padding-top: 20px;
+    height: 130px;
+}
+#awards hr {
+	width: 800px;
+}
+.award .left {
+    width: 15%;
+	display: inline;
+	float: left;
+	clear:left;
+}
+.award .right {
+    width: 84%;
+	display: inline;
+    float: right;
+    clear: right;
+}
+.award p {
+    text-align: justify;
+    font-size: 12px;
+    padding-right: 25px;
+}
+.catPdfList {
+	display: inline;
+	float: left;
+	width: 300px;
+	padding-left: 20px;
+}
+#content {
+	margin-bottom: 0;
+}
+#content.articleContent {
+	margin-left: 10px;
+}
+#content .top {
+/*	height:  417px; */
+	margin-bottom: 0;
+	margin-left: 0;  
+	padding-left: 0; 
+	background: #fff;/* #D8D8D8; */ 
+}
+#catDesc, #divisionDesc {
+    display: inline ;
+    clear: right;
+    float: right;
+    width: 35%;
+    margin-right:2%;
+    text-align: justify;
+    font-size: 12px;
+}
+#catDesc, #divisionDesc p{
+	padding:0;
+	font-size:13px;
+
+}
+div#unableToFind {
+    clear:left;
+    float: left;
+    height: 140px;
+    background: #fff;
+    width: 960px;
+    padding-left: 10px;
+}
+
+dl dt {
+    width:12%;
+}
+#footer {
+/*	margin-top: -12px;*/
+}
+#footer span.right {
+    padding-left: 40px;
+}
+
+#header {
+    background: #707070;
+}
+#header .nav a:hover {
+    background: #0099FF;
+    color: #101F40;
+}
+#header .nav a.active {
+    background: #0099FF;
+}
+#footer {
+/*    float: left;*/
+}
+.lifeStyleLinks {
+    margin-right: 50px;
+    margin-left: 30px;
+}
+
+.manualsLinks {
+    height: 165px;
+    width: 150px;  
+    margin-right: 10px;
+    margin-left: 20px;
+}
+.manualsLinks h2 {
+    text-align: center;
+    height: 1em;
+    font-size: 14px;
+}
+p {
+    text-align: justify;
+    font-size: 14px;
+}
+p.quote {
+    font-family: Zapf Chancery, cursive;
+    font-size: 14px;
+}
+#partsService {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#warrantee {
+	padding-bottom: 10px;
+}
+.slideshow img {
+  display: block;
+
+  height: 400px;
+  width: 600px;
+ }
+.testimonial {
+	padding-top: 20px;
+    height: 200px;
+}
+.testimonial h3 {
+	font-size: 16px;
+	font-style: italic;
+}
+#testimonials hr {
+	width: 800px;
+}
+.testimonial .left {
+    width: 15%;
+	display: inline;
+	float: left;
+	clear:left;
+}
+.testimonial .right {
+    width: 84%;
+	display: inline;
+    float: right;
+    clear: right;
+}
+.testimonial p {
+    text-align: justify;
+    font-size: 15px;
+    padding-right: 25px;
+}

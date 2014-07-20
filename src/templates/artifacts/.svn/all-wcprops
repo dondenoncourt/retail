@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/subversion/b2bweb/!svn/ver/1194/retail/trunk/src/templates/artifacts
+END
+Controller.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/b2bweb/!svn/ver/1194/retail/trunk/src/templates/artifacts/Controller.groovy
+END
+TagLib.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/1194/retail/trunk/src/templates/artifacts/TagLib.groovy
+END
+Script.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/1194/retail/trunk/src/templates/artifacts/Script.groovy
+END
+Filters.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/1194/retail/trunk/src/templates/artifacts/Filters.groovy
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/b2bweb/!svn/ver/1194/retail/trunk/src/templates/artifacts/hibernate.cfg.xml
+END
+WebTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/1194/retail/trunk/src/templates/artifacts/WebTest.groovy
+END
+Service.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/1194/retail/trunk/src/templates/artifacts/Service.groovy
+END
+DomainClass.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/b2bweb/!svn/ver/1194/retail/trunk/src/templates/artifacts/DomainClass.groovy
+END
+Tests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/b2bweb/!svn/ver/1194/retail/trunk/src/templates/artifacts/Tests.groovy
+END

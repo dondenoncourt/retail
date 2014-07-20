@@ -1,0 +1,1 @@
+<p style="color: red; font-style: italic;">Either the card number and/or the CAPTCHA response is invalid.</p>

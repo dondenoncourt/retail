@@ -1,0 +1,48 @@
+#header {
+	background: #000;
+    color: #fff;
+}
+#header .type {
+    color: #fff;
+}
+#header .navSecond a {
+    background: #000;
+}
+#header .navSecond a.active {
+    color: #707070; /* SlateGrey */
+}
+#header .navSecond a:hover {
+    color: #707070; /* SlateGrey */
+}
+
+#header .navTop ul li a:hover {
+    background: #707070; /* SlateGrey */
+    color: #fff;
+}
+#header .navTop ul li a.active {
+    background: #000;
+}
+.divHeaderMenuActive{
+	background: #000000 !important;
+}
+.lifeStyleLinks {
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: #000;
+    color: #fff;
+}
+#likeFacebook {
+/*	position:absolute;
+	top: 90px; 
+	left: 960px; set in javascript*/
+}
+#likePinterest {
+/*	position:absolute;
+	top: 115px; 
+	left: 960px; set in javascript*/
+}
+
+#sidebar {
+	display: none;
+}
+

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/subversion/b2bweb/!svn/ver/3498/retail/trunk/grails-app/views/consumer
+END
+_billToUpdate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/b2bweb/!svn/ver/1118/retail/trunk/grails-app/views/consumer/_billToUpdate.gsp
+END
+btCreate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/1118/retail/trunk/grails-app/views/consumer/btCreate.gsp
+END
+_headerUpdate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/b2bweb/!svn/ver/1044/retail/trunk/grails-app/views/consumer/_headerUpdate.gsp
+END
+orderHst.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/3498/retail/trunk/grails-app/views/consumer/orderHst.gsp
+END
+_billToStatic.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/b2bweb/!svn/ver/1044/retail/trunk/grails-app/views/consumer/_billToStatic.gsp
+END
+stChange.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/784/retail/trunk/grails-app/views/consumer/stChange.gsp
+END
+_billToAdd.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/b2bweb/!svn/ver/1118/retail/trunk/grails-app/views/consumer/_billToAdd.gsp
+END
+orderDetail.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/b2bweb/!svn/ver/3498/retail/trunk/grails-app/views/consumer/orderDetail.gsp
+END
+_headerStatic.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/b2bweb/!svn/ver/1044/retail/trunk/grails-app/views/consumer/_headerStatic.gsp
+END
+_invOrderHeader.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/b2bweb/!svn/ver/3498/retail/trunk/grails-app/views/consumer/_invOrderHeader.gsp
+END
+show2.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/subversion/b2bweb/!svn/ver/667/retail/trunk/grails-app/views/consumer/show2.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/b2bweb/!svn/ver/517/retail/trunk/grails-app/views/consumer/create.gsp
+END
+giftcards.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/b2bweb/!svn/ver/2802/retail/trunk/grails-app/views/consumer/giftcards.gsp
+END
+_shipToUpdate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/b2bweb/!svn/ver/1044/retail/trunk/grails-app/views/consumer/_shipToUpdate.gsp
+END
+stCreate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/775/retail/trunk/grails-app/views/consumer/stCreate.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/subversion/b2bweb/!svn/ver/517/retail/trunk/grails-app/views/consumer/list.gsp
+END
+btChange.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/1410/retail/trunk/grails-app/views/consumer/btChange.gsp
+END
+_headerUpdate2.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/b2bweb/!svn/ver/1044/retail/trunk/grails-app/views/consumer/_headerUpdate2.gsp
+END
+_shipToStatic.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/b2bweb/!svn/ver/1044/retail/trunk/grails-app/views/consumer/_shipToStatic.gsp
+END
+warranties.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/b2bweb/!svn/ver/1980/retail/trunk/grails-app/views/consumer/warranties.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/subversion/b2bweb/!svn/ver/1929/retail/trunk/grails-app/views/consumer/show.gsp
+END
+_orderHeader.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/b2bweb/!svn/ver/770/retail/trunk/grails-app/views/consumer/_orderHeader.gsp
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/subversion/b2bweb/!svn/ver/965/retail/trunk/grails-app/views/consumer/edit.gsp
+END

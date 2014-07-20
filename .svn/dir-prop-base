@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 235
+target
+.idea
+out
+retail.iml
+retail-grailsPlugin-item-package-grailsPlugins.iml
+retail-grailsPlugin-item-package.iml
+retail-grailsPlugins.iml
+retail-grailsPlugin-ups-web-service-grailsPlugins.iml
+retail-grailsPlugin-ups-web-service.iml
+
+K 13
+svn:mergeinfo
+V 147
+/retail/branches/checkout_4_page:1388-1462
+/retail/branches/compare:1525-1580
+/retail/branches/contract:1015-1117
+/retail/branches/german:1601-1670
+END

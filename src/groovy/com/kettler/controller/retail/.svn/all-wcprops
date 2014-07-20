@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/b2bweb/!svn/ver/3486/retail/trunk/src/groovy/com/kettler/controller/retail
+END
+AddressesCommand.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/subversion/b2bweb/!svn/ver/2434/retail/trunk/src/groovy/com/kettler/controller/retail/AddressesCommand.groovy
+END
+PayShipCommand.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/b2bweb/!svn/ver/3486/retail/trunk/src/groovy/com/kettler/controller/retail/PayShipCommand.groovy
+END
+EmailUsCommand.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/b2bweb/!svn/ver/2879/retail/trunk/src/groovy/com/kettler/controller/retail/EmailUsCommand.groovy
+END
+CheckoutCommand.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/b2bweb/!svn/ver/3335/retail/trunk/src/groovy/com/kettler/controller/retail/CheckoutCommand.groovy
+END

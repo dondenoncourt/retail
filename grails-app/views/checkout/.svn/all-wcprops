@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/subversion/b2bweb/!svn/ver/3576/retail/trunk/grails-app/views/checkout
+END
+index.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/b2bweb/!svn/ver/2574/retail/trunk/grails-app/views/checkout/index.gsp
+END
+_cart.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/b2bweb/!svn/ver/3335/retail/trunk/grails-app/views/checkout/_cart.gsp
+END
+_verifyOrder.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/b2bweb/!svn/ver/2720/retail/trunk/grails-app/views/checkout/_verifyOrder.gsp
+END

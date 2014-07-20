@@ -1,0 +1,189 @@
+a {
+    color: #101F40;
+    outline: none;
+}
+
+body {
+	font: normal 12px Arial, Helvetica, sans-serif;
+}
+#buy  {
+/*    height: 500px; */
+}
+#divisionImages {
+	position: relative;
+/*	left: -195px;*/
+	width:62% !important;
+	float:left;
+}
+#divisionDesc {
+	width: 4%5;
+}
+#catDesc {
+    display: inline ;
+    clear: right;
+    float: right;
+	padding-left: 5px;
+	padding-right: 5px;
+	width: 290px;    
+	text-align: justify;
+}
+#catImages {
+    display: inline;
+    clear: left;
+    float: left;
+    width: 454px;
+}
+
+.categoryLifeStyles, .divisionLifeStyles {
+   /* height: 405px !important;*/
+}
+#content {
+ /*    display: inline;
+    float: right;
+   width: 80%;   
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;*/
+}   
+
+#content .top {
+    border-bottom: none;
+    padding: 0 0 0 0;
+    margin: 0 0 15px;
+    display: inline;
+    
+}
+.divFiltersPatio{
+	width:20%;
+	float:left;
+}
+#divContentProductListArea{
+	width:80%;
+	float:right;
+	background:#FFFFFF;
+}
+div.#buy {
+    display: inline;
+    float: right;
+    width: 800px;   
+    margin: 0 0 0 0;
+}
+div.page {
+	border-top: 1px solid #101F40;
+	padding-top: 15px;
+}
+#filters {
+   /* border-top: 1px solid #101F40;
+    position: absolute;
+    margin-left: 5px;*/
+}
+.divCategoryTopCollection{
+	float:left;
+	width:20%;
+}
+.divContentLifeStyleArea{
+	float:right;
+	width:80%;
+	background:#FFFFFF;
+}
+.divContentLifeStyleArea100{
+	float:right;
+	width:100%;
+	background:#FFFFFF;
+}
+.divCategoryTop{
+	background: #A0A0A0;
+}
+.divCategoryBottom{
+	background: #A0A0A0;
+}
+
+#filters ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+   
+}
+#header {
+	background: #D2B48C; /* tan */
+}
+#header .navSecond a {
+	background: #D2B48C; /* tan */
+}
+#header .navSecond a.active {
+	background: #D2B48C; /* tan */
+}
+.divHeaderMenuActive{
+	background: #D2B48C !important;
+}
+#header .navSecond a:hover {
+	background: #D2B48C; /* tan */
+}
+
+#header .navTop ul li a.active {
+	background: #D2B48C; /* tan */
+}
+.divHeaderMenuActive{
+	background: #D2B48C !important;
+}
+
+img {
+	border: 0;
+}
+.lifeStyleLinks {
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: #D2B48C; /* tan */
+}
+
+#pickColor {
+	width: 300px;
+}
+#pickColor li {
+    display: inline;
+}
+#pickColor input[type="radio"] {
+    margin: 0;
+}
+
+#pickColor li {
+    display: inline;
+}
+#pickColor li a {
+    text-decoration: none;
+}
+#pickColorBox {
+    border: 1px solid #101F40;
+    height: 60px;
+    width: 280px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+#sidebar {
+	display: inline;
+	float: left;
+	width: 20%;	
+	background: #fff;	
+}
+
+#sidebar .menu {
+	border: 1px solid #101F40;
+	border-bottom: none;
+	list-style: none;
+	margin: 0 5px 10px;
+	padding: 0;
+	width: 150px;
+}
+
+#sidebar .menu li a {
+	border-bottom: 1px solid #101F40;
+	display: block;
+	font-weight: bold;
+	padding: 5px 10px;
+	text-decoration: none;
+}
+
+#sidebar .menu li a:hover {
+	background: #101F40;
+	color: #fff;
+}

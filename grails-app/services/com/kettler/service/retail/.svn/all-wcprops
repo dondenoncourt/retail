@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/b2bweb/!svn/ver/3498/retail/trunk/grails-app/services/com/kettler/service/retail
+END
+FedexService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/b2bweb/!svn/ver/3498/retail/trunk/grails-app/services/com/kettler/service/retail/FedexService.groovy
+END
+InventoryService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/subversion/b2bweb/!svn/ver/1157/retail/trunk/grails-app/services/com/kettler/service/retail/InventoryService.groovy
+END
+UserAgentIdentService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/subversion/b2bweb/!svn/ver/1207/retail/trunk/grails-app/services/com/kettler/service/retail/UserAgentIdentService.groovy
+END
+WebTierService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/subversion/b2bweb/!svn/ver/354/retail/trunk/grails-app/services/com/kettler/service/retail/WebTierService.groovy
+END
+CheckoutService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/subversion/b2bweb/!svn/ver/3487/retail/trunk/grails-app/services/com/kettler/service/retail/CheckoutService.groovy
+END
+PreAuthorizationService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/subversion/b2bweb/!svn/ver/3486/retail/trunk/grails-app/services/com/kettler/service/retail/PreAuthorizationService.groovy
+END
+UpsService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/subversion/b2bweb/!svn/ver/3335/retail/trunk/grails-app/services/com/kettler/service/retail/UpsService.groovy
+END
+PdfService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/subversion/b2bweb/!svn/ver/1359/retail/trunk/grails-app/services/com/kettler/service/retail/PdfService.groovy
+END

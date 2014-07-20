@@ -1,0 +1,123 @@
+<%@ page import="com.kettler.domain.item.share.WebDivision" %>
+<%@ page import="grails.util.Environment" %>
+
+  
+<div id="main"> 
+    <% if (currentDivision == 'patio' && !noShowFilter && params.NoShowFilter != 'true') { %>
+        <g:render template="/layouts/collections"/>
+    <% } %> 
+    <g:layoutBody />
+	<ul id="footer"> 
+	    <% if (!['www.kettlerlatinoamerica.com', 'www.kettlercanada.com'].find{ it == request.serverName}) { %>
+               <li><g:link controller="homePage" action="termsAndConditions" params="[division:currentDivision]">Terms &amp; Conditions</g:link></li>
+        <% } %>
+        <% if (currentDivision == 'kettler usa') { %>
+            <li><a href="https://www.kettlerusa.com/kettler/" title="click to go to the KETTLER Business-to-Business application">Retailer &amp; Rep Login</a></li>
+   	    <% } %>
+	    <% if (currentDivision != 'kettler usa' && !['www.kettlerlatinoamerica.com', 'www.kettlercanada.com'].find{it == request.serverName}) { %>
+            <li><g:link controller="shop" action="archives" params="[division:currentDivision]">Archive Items</g:link></li>
+	    <% } %>
+	    <% if (!['www.kettlerlatinoamerica.com'].find{ it == request.serverName}) { %>
+            <li class="${(request.serverName ==~ /www.kettlerlatinoamerica.com/)?'lastItem':''}">
+                <a href="${kettler.resource(contextPath:'/contact-us')}">Contact Us</a>
+            </li>
+            <li>
+                <a href="${resource(contextPath:'/warranty',absolute:true)}" title="Register Warranty" 
+                    class="${(request.serverName ==~ /www.kettlerlatinoamerica.com/)?'lastMenuItem':''}"
+                >Register Warranty</a>
+            </li>
+   	    <% } %>
+
+       	<% def divName = division?(division instanceof String)?division:division.name:null %>
+        <% if (!['www.kettlercontract.com', 'www.kettlerlatinoamerica.com'].find{it == request.serverName} && !divName) { %>
+   			<li><a href="http://www.kettlercontract.com" title="Go to Kettler Contract">Kettler Contract</a></li>
+	    <% } %>
+		<% if (request.serverName ==~ /www.kettlercontract.com/ ||
+		       request.serverName ==~ /www.kettlercanada.com/) { %>
+        	<%-- don't use www.kettlerusa.com so href rewrite doesn't hit it --%>
+            <% if (divName == 'toys' || category =~ /toys.*/) { %>
+	   			<li> <a href="http://kettlerusa.com" title="Go to Kettler USA">Kettler USA</a> </li>
+                <li class="lastItem">
+                    <a id="whereToBuy" class="lastMenuItem" title="Click to see where to buy"
+                        href="${createLink(controller:'locate',action:'index', params:[division:divName,itemId:itemId,mode:request.serverName=='www.kettlercanada.com'?'canada':''])}">
+                        <g:message code="menu.where.to.buy"/>
+                    </a>
+                </li>
+            <% } else { %>
+	   			<li class="lastItem"> <a href="http://kettlerusa.com" title="Go to Kettler USA" class="lastMenuItem">Kettler USA</a> </li>
+            <% } %>
+	    <% } else if (!(request.serverName ==~ /www.kettlerlatinoamerica.com/)) { %>
+	   		<li><a href="http://www.kettlercanada.com" title="Go to Kettler Canada">Kettler Canada</a></li>
+            <li class="lastItem">
+            	<%-- sometimes division is a String sometimes it is WebDivision, downcast to a String --%>
+            	<a id="whereToBuy" class="lastMenuItem" title="Click to see where to buy"
+            		<% if (divName == 'fitness') { %>
+	            		href="${createLink(controller:'dealer',action:'webDealers', params:[division:'fitness',itemId:itemId,mode:params.mode])}"
+            		<% } else if (division) { %>
+	            		href="${createLink(controller:'locate',action:'index', params:[division:divName,itemId:itemId,mode:params.mode])}"
+            		<% } else { %>
+	            		href="${createLink(controller:'homePage',action:'pickWhereToBuyDiv')}"
+            		<% } %>
+            	>
+                    <g:message code="menu.where.to.buy"/>
+            	</a>
+            </li>
+		<% } %> 
+		<li id="copyright" class="lastItem"> 
+		    &copy; 2013 Kettler
+	    </li>
+	</ul>
+</div> 
+
+<g:javascript>
+    if ($.browser.msie) {
+		$('#footer #copyright').css('float', 'none'); 
+		$('#footer #copyright').css('margin-left', '250'); 
+    }
+    <% if (Environment.current == Environment.PRODUCTION) { %>
+        $(document).bind("contextmenu", function(e) {
+         if ($.browser.msie || $.browser.mozilla  ) {
+            return false;
+         }  
+         if (e.srcElement.nodeName == 'IMG') {
+            e.preventDefault();
+         }
+        });
+    <% } %>
+    if ($.browser.msie) {
+        <%--http://www.filamentgroup.com/lab/achieving_rounded_corners_in_internet_explorer_for_jquery_ui_with_dd_roundi/ --%>
+        DD_roundies.addRule('#header .nav a', '10px 10px 0 0');
+        DD_roundies.addRule('.lifeStyleLinks', '10px');
+        DD_roundies.addRule('.clickme', '5px');
+        DD_roundies.addRule('.button', '5px');
+    }
+    <% if (currentDivision == 'patio' && !specificCollection && params.max?.toInteger() < 5) { %>
+        var divPage = $('div.page');
+        if (divPage) {
+            var divPagePosition = $('div.page').position();
+            if (divPagePosition) {
+                var paginationTop = $('div.page').position().top;
+                $('#filters').css('top', (paginationTop)+'px');
+            }
+        }
+    <% } %> 
+
+    $('.navSecond ul li').last().find('a').addClass('lastMenuItem');
+    
+    var pageErrorsHeight = $('#pageErrors').height();
+    var flashMessageHeight = $('div.message').height();
+    if (pageErrorsHeight) {
+		$('#content').height($('#content').height()+pageErrorsHeight+22);
+	}
+    if (flashMessageHeight) {
+		$('#content').height($('#content').height()+flashMessageHeight+22);
+	}
+    function resize() {
+        var footer_top = parseInt($('#footer').offset().top);
+        var header_height = parseInt($('div#header').height());
+        $('#main').height((footer_top - header_height));
+    }
+    $(document).ready(function () {
+        setTimeout(function() { resize(); }, 2000); 
+    });
+</g:javascript>

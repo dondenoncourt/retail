@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/subversion/b2bweb/!svn/ver/1194/retail/trunk/src/templates/scaffolding
+END
+Controller.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/b2bweb/!svn/ver/1194/retail/trunk/src/templates/scaffolding/Controller.groovy
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/subversion/b2bweb/!svn/ver/1194/retail/trunk/src/templates/scaffolding/edit.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/b2bweb/!svn/ver/1194/retail/trunk/src/templates/scaffolding/create.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/subversion/b2bweb/!svn/ver/1194/retail/trunk/src/templates/scaffolding/show.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/subversion/b2bweb/!svn/ver/1194/retail/trunk/src/templates/scaffolding/list.gsp
+END
+renderEditor.template
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/b2bweb/!svn/ver/1194/retail/trunk/src/templates/scaffolding/renderEditor.template
+END

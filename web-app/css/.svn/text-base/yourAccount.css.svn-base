@@ -1,0 +1,105 @@
+div#ltlBol {
+    height: 750px;
+	width: 810px;
+    padding-left: 140px;
+    padding-right: 4px;
+    font-size: larger;  
+}
+h1 {
+	font-size: 1.75em;
+	text-transform: none;
+}
+#trackingLabels li {
+	margin-bottom: 10px;
+	font-size: larger;
+}
+table {
+	border-spacing: 10px;
+}
+#selfShip {
+	margin: 10px;
+	float: right;
+	height: 700px;
+	padding-left: 4px;
+	padding-right: 4px;
+	width: 810px;
+	font-size: larger;	
+}
+#selfShip h1 {
+	margin-top: 34px;
+}
+#selfShip .address {
+	font-size: 1.25em;
+}
+#upsLabels dl {
+	font-size: 1.5em;
+}
+#yourAccountMenu {
+  float: left; 
+  padding-left: 0;
+  margin-right: 0; 
+  padding-right: 0;
+  background: #fff;
+  height: 750px;
+}
+#yourAccountMenu ul {
+  margin:0;
+  padding-left: 4px;
+  list-style-type:none;
+  display:block;
+  line-height: 200%;
+  width: 126px;
+  padding-top: 10px;
+}
+#yourAccountMenu ul li {
+  margin:0;
+  padding-left: 4px;
+  border-top: 1px #fff;
+  border-bottom: 1px #fff;
+  background-color: #06C;
+}
+#yourAccountMenu ul li a {
+  display:block;
+  text-decoration: none;
+  padding-left: 4px;
+  width: 90%;
+  font-weight: bold;
+  color: #fff;
+  border-bottom: 1px solid #fff;
+}
+#yourAccountMenu ul li a:hover{
+    background: #0099FF;
+    color: #101F40;
+}
+#yourAccountMenu ul li a.current,
+      ul li a.current:hover {
+  background:blue;
+}
+#yourAccountContent {
+  width: 832px;
+  float: right;
+  background: #fff;
+  height: 750px;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+#yourAccountContent .page {
+	padding-top: 15px;
+}
+#yourAccountContent .page a {
+	background: #D6E8FF;
+	border: 1px solid #101F40;
+	color: #101F40;
+	font-weight: bold;
+	margin-left: 2px;
+	margin-right: 2px;
+	padding: 2px 5px;
+	text-decoration: none;
+}
+
+#yourAccountContent dl dt {
+    width: 14%;
+}
+#yourAccountContent td.date  {
+	width: 6em;
+}

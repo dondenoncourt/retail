@@ -1,0 +1,4 @@
+<p>
+KETTLER USA provides the highest quality outdoor furniture for the Contract, Food Service and Hospitality Industry. KETTLER contract furniture provides quality, value and award winning designs built to withstand the elements and commercial traffic. Our most popular chairs and tables have been tested to ensure compliance with BIFMA (Business and Institutional Furniture Manufacturer's Association) Standards.  They have also undergone accelerated corrosion resistance testing to provide years of durability.   
+In additions to the quality and value,  KETTLER also stocks many items in our Virginia warehouse for quick shipping at the lowest rates. As part of our service, orders can be tracked on our retailer website, AccessKETTLERUSA.  If you are looking for quality contract furniture to be delivered on time and within your budget, you have found it.
+</p>

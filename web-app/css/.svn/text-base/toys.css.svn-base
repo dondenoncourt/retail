@@ -1,0 +1,49 @@
+a.back {
+    display:block;
+    height: 20px;
+    color: white;
+    background-color: #0066CC;
+    border: 1px solid #101F40;
+    padding: 4px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: block;
+    width: 45px;
+    font-size: large;
+}
+
+#header {
+    background: LightSkyBlue;
+}
+#header .navSecond a {
+    background: LightSkyBlue;
+    padding-left: 6px;
+ 	padding-right: 6px;
+}
+#header .navSecond a.active {
+    background: LightSkyBlue;
+    color: #000;
+}
+#header .navSecond a:hover {
+    background: LightSkyBlue;
+}
+#header .navSecond ul {
+    padding-left: 10px;
+}
+.divHeaderMenuActive{
+	background: LightSkyBlue !important;
+}
+#header .navTop ul li a.active {
+    background: LightSkyBlue; !important;
+}
+
+#sidebar {
+	display: none;
+}
+
+.lifeStyleLinks {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+

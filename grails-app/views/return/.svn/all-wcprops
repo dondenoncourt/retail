@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/subversion/b2bweb/!svn/ver/3559/retail/trunk/grails-app/views/return
+END
+listOrder.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/1845/retail/trunk/grails-app/views/return/listOrder.gsp
+END
+_upsShipment.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/b2bweb/!svn/ver/1500/retail/trunk/grails-app/views/return/_upsShipment.gsp
+END
+label.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/subversion/b2bweb/!svn/ver/2464/retail/trunk/grails-app/views/return/label.gsp
+END
+createSelfShipLabel.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/b2bweb/!svn/ver/3559/retail/trunk/grails-app/views/return/createSelfShipLabel.gsp
+END
+_ltlShipment.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/b2bweb/!svn/ver/1378/retail/trunk/grails-app/views/return/_ltlShipment.gsp
+END
+ltlBillOfLading.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/b2bweb/!svn/ver/1401/retail/trunk/grails-app/views/return/ltlBillOfLading.gsp
+END
+createLtlRA.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/b2bweb/!svn/ver/1846/retail/trunk/grails-app/views/return/createLtlRA.gsp
+END
+createSelfShipRA.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/b2bweb/!svn/ver/1452/retail/trunk/grails-app/views/return/createSelfShipRA.gsp
+END
+continueReturn.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/b2bweb/!svn/ver/1884/retail/trunk/grails-app/views/return/continueReturn.gsp
+END
+listUpsLabels.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/b2bweb/!svn/ver/1452/retail/trunk/grails-app/views/return/listUpsLabels.gsp
+END

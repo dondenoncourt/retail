@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/subversion/b2bweb/!svn/ver/3576/retail/trunk/grails-app/views/contract
+END
+contract.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/3576/retail/trunk/grails-app/views/contract/contract.gsp
+END
+requestForQuote.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/b2bweb/!svn/ver/1118/retail/trunk/grails-app/views/contract/requestForQuote.gsp
+END
+contacts.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/3343/retail/trunk/grails-app/views/contract/contacts.gsp
+END
+dealers.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/1118/retail/trunk/grails-app/views/contract/dealers.gsp
+END
+_verbiage.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/b2bweb/!svn/ver/2473/retail/trunk/grails-app/views/contract/_verbiage.gsp
+END
+installPics.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/b2bweb/!svn/ver/2440/retail/trunk/grails-app/views/contract/installPics.gsp
+END

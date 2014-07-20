@@ -1,0 +1,19 @@
+#content .top {
+    height: 417px;
+}
+.categoryLifeStyles, .divisionLifeStyles {
+	height: 417px;
+}
+.lifeStyleLinks {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.productImage .price {
+    margin-left: 60px !important;
+}
+img.madeInGermany {
+    position:absolute ;
+    top: 150px;
+    left: 452px;
+    z-index: 101;
+}

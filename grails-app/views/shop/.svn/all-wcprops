@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/subversion/b2bweb/!svn/ver/3584/retail/trunk/grails-app/views/shop
+END
+_paginate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/b2bweb/!svn/ver/2593/retail/trunk/grails-app/views/shop/_paginate.gsp
+END
+_newCollections.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/b2bweb/!svn/ver/3583/retail/trunk/grails-app/views/shop/_newCollections.gsp
+END
+_cart.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/subversion/b2bweb/!svn/ver/3576/retail/trunk/grails-app/views/shop/_cart.gsp
+END
+confirmation.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/746/retail/trunk/grails-app/views/shop/confirmation.gsp
+END
+cart.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/subversion/b2bweb/!svn/ver/3576/retail/trunk/grails-app/views/shop/cart.gsp
+END
+_bikesBackgroundUtil.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/b2bweb/!svn/ver/3580/retail/trunk/grails-app/views/shop/_bikesBackgroundUtil.gsp
+END
+_altAddrs.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/b2bweb/!svn/ver/1118/retail/trunk/grails-app/views/shop/_altAddrs.gsp
+END
+_patioColors.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/1285/retail/trunk/grails-app/views/shop/_patioColors.gsp
+END
+_newFilter.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/b2bweb/!svn/ver/3583/retail/trunk/grails-app/views/shop/_newFilter.gsp
+END
+_verifyOrder.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/746/retail/trunk/grails-app/views/shop/_verifyOrder.gsp
+END
+verifyOrder.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/b2bweb/!svn/ver/942/retail/trunk/grails-app/views/shop/verifyOrder.gsp
+END
+_billInfoUpdate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/b2bweb/!svn/ver/1541/retail/trunk/grails-app/views/shop/_billInfoUpdate.gsp
+END
+_products.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/b2bweb/!svn/ver/3580/retail/trunk/grails-app/views/shop/_products.gsp
+END
+detail.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/b2bweb/!svn/ver/3576/retail/trunk/grails-app/views/shop/detail.gsp
+END
+products.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/subversion/b2bweb/!svn/ver/3584/retail/trunk/grails-app/views/shop/products.gsp
+END
+archives.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/subversion/b2bweb/!svn/ver/2598/retail/trunk/grails-app/views/shop/archives.gsp
+END
+_billInfoStatic.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/b2bweb/!svn/ver/1332/retail/trunk/grails-app/views/shop/_billInfoStatic.gsp
+END
+checkout.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/subversion/b2bweb/!svn/ver/3335/retail/trunk/grails-app/views/shop/checkout.gsp
+END
+search.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/b2bweb/!svn/ver/3580/retail/trunk/grails-app/views/shop/search.gsp
+END
+_detailMainImage.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/b2bweb/!svn/ver/3580/retail/trunk/grails-app/views/shop/_detailMainImage.gsp
+END
+_handleAddToCart_js.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/b2bweb/!svn/ver/2625/retail/trunk/grails-app/views/shop/_handleAddToCart_js.gsp
+END
+category.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/subversion/b2bweb/!svn/ver/3584/retail/trunk/grails-app/views/shop/category.gsp
+END
+_detailYouTube.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/b2bweb/!svn/ver/1118/retail/trunk/grails-app/views/shop/_detailYouTube.gsp
+END
+_largerImage.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/2975/retail/trunk/grails-app/views/shop/_largerImage.gsp
+END
+closeouts.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/b2bweb/!svn/ver/3580/retail/trunk/grails-app/views/shop/closeouts.gsp
+END
+_shipInfoUpdate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/b2bweb/!svn/ver/1542/retail/trunk/grails-app/views/shop/_shipInfoUpdate.gsp
+END
+detail1.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/subversion/b2bweb/!svn/ver/3576/retail/trunk/grails-app/views/shop/detail1.gsp
+END
+detail2.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/subversion/b2bweb/!svn/ver/3576/retail/trunk/grails-app/views/shop/detail2.gsp
+END
+_shipInfoStatic.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/b2bweb/!svn/ver/1332/retail/trunk/grails-app/views/shop/_shipInfoStatic.gsp
+END

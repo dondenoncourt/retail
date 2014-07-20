@@ -1,0 +1,128 @@
+
+body {
+	font-size: 14px;
+}
+#billOfLading {
+	border: 1px solid #101F40;
+	height: 940px;
+}
+div.address {
+	height: 70px;
+}
+#proNumber {
+	height: 190px;
+}
+dl {
+	margin-top: 5px;
+}
+dl dt {
+	clear: left;
+	width: 110px;
+	padding: 1px;
+}
+dl dt.wide {
+	width: 200px
+}
+dl dd {
+    width: 500px;
+    padding: 1px;
+}
+.fineprint {
+    margin-top: 15px;
+    clear:left;
+}
+.fineprint p {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: x-small;
+    position: absolute;
+    top: 890px;
+}
+h1 {
+    text-align: center;
+    font-size: 1.8em;
+    margin-top: -10px;
+}
+h1 sup {
+    font-size: .5em;
+    font-weight: normal;
+}
+h2 {
+    text-align: left;
+    font-size: 1.1em;
+    margin-top: .2em;
+    margin-bottom: .1em;
+    margin-left: .5em;
+}
+.nextBox {
+	clear:left;
+    border-top: 1px solid #101F40;
+    margin-top: 5px;
+}
+p {
+    clear: left;
+} 
+#packageContents {
+	float: left;
+	clear: both;
+	width: 98%;
+    border: 1px solid #101F40;
+    border-collapse: collapse;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+#packageContents  td {
+    border-left: 1px solid #101F40;
+    border-top: 1px solid #101F40;
+    text-align: center;
+}
+#packageContents th {
+    border-left: 1px solid #101F40;
+    border-top: 1px solid #101F40;
+}
+#signatures {
+    clear:both;
+}
+#signatures dl {
+    margin-top: 450px; /* why such a high number is needed, I don't know */
+}
+
+#signatures table {
+    float: left;
+    clear: both;
+    margin-left: 20px;
+    border-collapse:separate; 
+    border-spacing:1em;
+    margin-top: 0px;
+}
+#signatures table td.underline {
+    border-bottom: 1px solid #101F40;
+}
+#signatures table td.date {
+    width: 100px;
+}
+#signatures table td.signature {
+    width: 300px;
+}
+#signatures table td.prompt {
+    font-weight: bold;
+    text-align: right;
+}
+#signatures p {
+    text-align: center;
+}
+
+#topLeft {
+    float: left;
+    border: 1px solid #101F40;
+    width: 49%;
+    margin-left: 5px;
+}
+#topRight {
+    float: right;
+    border: 1px solid #101F40;
+    width: 48%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+

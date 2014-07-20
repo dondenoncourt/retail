@@ -1,0 +1,21 @@
+/*--- begin hover category menu ---*/
+#header .navTop ul li ul {
+}
+#header .navTop ul li ul li {
+}
+#header .navTop ul li ul li a {
+	width: 200px !important;
+}
+#header .navTop ul#toysCatMenu a {
+	width: 250px !important;
+}
+#header .navTop a.kettlerusa {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+#header .navTop a.kettlerusa > span {
+    font-size: 10px !important;	
+}
+#tabs dl dt {
+    width:35% !important;
+}

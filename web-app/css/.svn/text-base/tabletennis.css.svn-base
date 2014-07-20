@@ -1,0 +1,30 @@
+.lifeStyleLinks {
+    margin-right: 50px;
+    margin-left: 50px;
+    background: #4682B4; /* steelblue */
+}
+
+#header {
+    background: #4682B4; /* steelblue */
+}
+#header .navSecond a {
+    background: #4682B4; /* steelblue */
+}
+#header .navSecond a.active {
+    background: #4682B4; /* steelblue */
+    color: #000;
+}
+#header .navSecond a:hover {
+    background: #4682B4; /* steelblue */
+}
+
+#header .navTop ul li a.active {
+    background: #4682B4; /* steelblue */
+}
+.divHeaderMenuActive{
+	background: #4682B4 !important;
+}
+#sidebar {
+	display: none;
+}
+

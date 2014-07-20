@@ -1,0 +1,92 @@
+#content .top {
+    width: 100%;
+}
+#comment {  
+	margin-left: 100px;
+}
+#divAfter {
+    margin-top: 100px;
+}
+dl {
+    margin-bottom: -1px;
+}
+#gallery {
+	margin-left: 10px;
+    height: 540px;
+    margin-top: 20px;
+}
+#gallery h3 {
+	text-align: center;
+}
+#gallery .column {
+	height: 250px;
+    width: 33%;
+    float: left;
+}
+#gallery .page a {
+    background: #D6E8FF;
+    border: 1px solid #101F40;
+    color: #101F40;
+    font-weight: bold;
+    padding: 2px 5px;
+    margin-right: 2px;
+    margin-left: 2px;
+    text-decoration: none;
+}
+
+
+#gallery .page a.active {
+    background: #fff;
+    color: #101F40;
+}
+
+#gallery .page a.inactive {
+    background: #fff;
+    border: 1px solid #999;
+    color: #999;
+    cursor: default;
+}
+#gallery .page form {
+    display: inline;
+    float: right;
+}
+#gallery div.page {
+    padding-bottom: 5px;
+    clear:left;
+    height: 17px;
+    border-top: 1px solid #101F40;
+    padding-top: 8px;
+    margin-left: 5px;
+    margin-right: 5px;
+     
+}
+
+#header .navTwo a {
+    border: 1px solid #101F40;
+    color: black;
+    border-color: green;
+    padding: 1px 50px 1px 50px;
+    text-align: center; 
+    background: tan;
+    margin-right: -5px;
+}
+#header .navTwo a:hover {
+    background: wheat;
+    color: #101F40;
+}
+#header a.current  {
+    background: wheat;
+    color: #101F40;
+}
+#verbiage {
+	clear: right;
+	display: inline;
+	float: right;
+	padding-right: 10px;
+	text-align: justify;
+	width: 37%;
+}
+p {
+	margin-bottom: 0;
+	margin-left: 10px;
+}
